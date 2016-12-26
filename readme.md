@@ -11,7 +11,7 @@ Flashapp is, for now, an idea of build a community-driven flashcard [Electron](h
 application.
 
 ### What is ready?
-Just this readme file, and a set of questions about design and architecture.
+Just this readme file, and a set of [questions](https://github.com/waltervargas/flashapp/issues) about design and architecture.
 
 ### Why? 
 Paper [Flashcards](https://en.wikipedia.org/wiki/Flashcard) have been used since at least the 19th century,
