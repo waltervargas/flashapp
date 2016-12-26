@@ -9,6 +9,8 @@
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 ## Introduction
+
+[![Join the chat at https://gitter.im/flashcardapp/Lobby](https://badges.gitter.im/flashcardapp/Lobby.svg)](https://gitter.im/flashcardapp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Flashapp is, for now, an idea of build a community-driven flashcard [Electron](https://electron.atom.io)
 application.
 
