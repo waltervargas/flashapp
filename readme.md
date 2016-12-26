@@ -6,6 +6,8 @@
 
 > A community driven spaced repetition flashcard app built on web technologies
 
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+
 ## Introduction
 Flashapp is, for now, an idea of build a community-driven flashcard [Electron](https://electron.atom.io)
 application.
